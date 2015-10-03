@@ -1,0 +1,8 @@
+{
+    "botEmail": "",
+    "botPassword": "",
+
+    "secretPassword": "secret",
+    "deniedMessage": "Your message cannot be delivered due to the fact that his account which violated security matters has been blocked - Facebook team",
+    "defaultDictionary": "cambridge"
+}
